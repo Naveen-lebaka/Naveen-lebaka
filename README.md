@@ -7,7 +7,7 @@ I'm a passionate **Data Analyst** with a strong focus on **Power BI**, data stor
 ## 👀 I’m interested in:
 - Business Intelligence & Data Analytics  
 - Power BI / DAX / Data Modeling  
-- Dashboard UI/UX Design  
+- building interactive dashboards  
 - Automation & Reporting  
 - SQL & Data Engineering basics  
 
@@ -36,7 +36,7 @@ I'm a passionate **Data Analyst** with a strong focus on **Power BI**, data stor
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: naveenlebaka.9082@gmail.com *(replace with real email)*  
+- 📧 Email: naveenlebaka.9082@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/naveen-lebaka](https://www.linkedin.com/in/naveen-lebaka)  
 
 ---
