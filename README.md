@@ -37,7 +37,7 @@ I'm a passionate **Data Analyst** with a strong focus on **Power BI**, data stor
 
 ## 📫 How to reach me:
 - 📧 Email: naveenlebaka.9082@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/naveen-lebaka](https://www.linkedin.com/in/naveen-lebaka)  
+- 💼 LinkedIn: [linkedin.com/in/naveen-lebaka](https://www.linkedin.com/in/naveen-kumar-lebaka-868284267/)  
 
 ---
 
